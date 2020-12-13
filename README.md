@@ -40,3 +40,8 @@ We have reached 100% happiness
 Where Shapes want to move if this is not True:
 <like-neighbor-percentage> >= 1/3
 ```
+
+Edit the `happiness_condition` variable at the bottom of main.py
+Then run main.py with `python main.py` or in your IDE
+
+Have fun!
